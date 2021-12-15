@@ -2,7 +2,6 @@
 
 const router = require('express').Router();
 const { Genre } = require('../../models');
-//properties of genre_name
 
 router.get('/', (req, res) => {
     Genre.findAll()

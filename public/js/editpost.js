@@ -26,7 +26,5 @@ async function editFormHandler(event) {
         console.log(error);
         document.location.reload();
     });
-
-  
   }
   document.querySelector('.updatepost-form').addEventListener('submit', editFormHandler);  

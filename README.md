@@ -18,6 +18,10 @@ GameSpotBlog is a gaming blog designed by gamers, for gamers. This site allows u
     - MySQL2
     - Sequelize
     - dotenv
+    - bcrypt
+    - bulma
+    - express-session
+    - handlebars
 
 * Git clone the repo from Github
 
